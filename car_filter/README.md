@@ -1,0 +1,2 @@
+TextGrocery和Fasttext只能在python2.7上安装成功
+Mechine Learning模型调用sklearn包，Python2、3均支持
