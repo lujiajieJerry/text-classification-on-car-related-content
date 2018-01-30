@@ -1,2 +1,4 @@
+本项目旨在解决过滤汽车行业不相关语句的问题，文本分类相关问题也可进行参考
+
 TextGrocery和Fasttext只能在python2.7上安装成功
 Mechine Learning模型调用sklearn包，Python2、3均支持
